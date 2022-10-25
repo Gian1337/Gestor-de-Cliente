@@ -1,0 +1,11 @@
+C:\Users\Gianluca\Desktop\Archivo con Corte de Control\Archivo con Corte de Control\bin\Debug\Archivo con Corte de Control.exe.config
+C:\Users\Gianluca\Desktop\Archivo con Corte de Control\Archivo con Corte de Control\bin\Debug\Archivo con Corte de Control.exe
+C:\Users\Gianluca\Desktop\Archivo con Corte de Control\Archivo con Corte de Control\bin\Debug\Archivo con Corte de Control.pdb
+C:\Users\Gianluca\Desktop\Archivo con Corte de Control\Archivo con Corte de Control\obj\Debug\Archivo con Corte de Control.csproj.AssemblyReference.cache
+C:\Users\Gianluca\Desktop\Archivo con Corte de Control\Archivo con Corte de Control\obj\Debug\Archivo con Corte de Control.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gianluca\Desktop\Archivo con Corte de Control\Archivo con Corte de Control\obj\Debug\Archivo_con_Corte_de_Control.Form1.resources
+C:\Users\Gianluca\Desktop\Archivo con Corte de Control\Archivo con Corte de Control\obj\Debug\Archivo_con_Corte_de_Control.Properties.Resources.resources
+C:\Users\Gianluca\Desktop\Archivo con Corte de Control\Archivo con Corte de Control\obj\Debug\Archivo con Corte de Control.csproj.GenerateResource.cache
+C:\Users\Gianluca\Desktop\Archivo con Corte de Control\Archivo con Corte de Control\obj\Debug\Archivo con Corte de Control.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\Archivo con Corte de Control\Archivo con Corte de Control\obj\Debug\Archivo con Corte de Control.exe
+C:\Users\Gianluca\Desktop\Archivo con Corte de Control\Archivo con Corte de Control\obj\Debug\Archivo con Corte de Control.pdb
